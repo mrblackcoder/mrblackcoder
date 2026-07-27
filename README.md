@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mehmet Taha 👋
 
-<!--
-**mrblackcoder/mrblackcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on backend and full-stack development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building applications with Java, Spring Boot and React
+- Interested in backend development, REST APIs, databases and software testing
+- Learning clean architecture, CI/CD and secure application development
+- Based in Istanbul, Türkiye
+
+## Technologies
+
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA  
+**Frontend:** React, JavaScript, Bootstrap  
+**Database:** MySQL, PostgreSQL, H2  
+**Tools:** Git, Docker, Gradle, GitHub Actions
+
+## Featured Project
+
+### Stock Management System
+
+A full-stack inventory management application featuring:
+
+- JWT authentication and role-based authorization
+- Product, category, supplier and stock transaction management
+- Spring Boot REST API and React frontend
+- Automated controller, service, repository and security tests
+- Docker support and GitHub Actions CI
+
+[View the project](https://github.com/mrblackcoder/Stock_Management)
+
+## Contact
+
+- GitHub: [@mrblackcoder](https://github.com/mrblackcoder)
+- LinkedIn: Add your LinkedIn URL here
