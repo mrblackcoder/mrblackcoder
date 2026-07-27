@@ -29,8 +29,3 @@ A full-stack inventory management application featuring:
 - Docker support and GitHub Actions CI
 
 [View the project](https://github.com/mrblackcoder/Stock_Management)
-
-## Contact
-
-- GitHub: [@mrblackcoder](https://github.com/mrblackcoder)
-- LinkedIn: Add your LinkedIn URL here
