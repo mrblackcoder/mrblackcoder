@@ -1,31 +1,24 @@
-# Hi, I'm Mehmet Taha 👋
+# Hi, I'm Mehmet 👋
 
 Software Engineering student focused on backend and full-stack development.
 
-## About Me
+## Tech Stack
 
-- Building applications with Java, Spring Boot and React
-- Interested in backend development, REST APIs, databases and software testing
-- Learning clean architecture, CI/CD and secure application development
-- Based in Istanbul, Türkiye
-
-## Technologies
-
-**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA  
-**Frontend:** React, JavaScript, Bootstrap  
-**Database:** MySQL, PostgreSQL, H2  
-**Tools:** Git, Docker, Gradle, GitHub Actions
+- Java 21, Spring Boot, Spring Security
+- React, JavaScript
+- MySQL, H2, JPA/Hibernate
+- Docker, GitHub Actions
+- Git, REST APIs, JWT
 
 ## Featured Project
 
 ### Stock Management System
 
-A full-stack inventory management application featuring:
+Full-stack inventory management application with JWT authentication,
+role-based authorization, automated tests, Docker support and CI workflows.
 
-- JWT authentication and role-based authorization
-- Product, category, supplier and stock transaction management
-- Spring Boot REST API and React frontend
-- Automated controller, service, repository and security tests
-- Docker support and GitHub Actions CI
+## Currently Working On
 
-[View the project](https://github.com/mrblackcoder/Stock_Management)
+- Transaction safety and concurrent stock updates
+- Security hardening
+- Full-stack testing and deployment automation
