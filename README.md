@@ -12,7 +12,7 @@ Software Engineering student focused on backend and full-stack development.
 
 ## Featured Project
 
-### Stock Management System
+### [Stock Management System](https://github.com/mrblackcoder/Stock_Management)
 
 Full-stack inventory and stock-transaction platform — Java 21 / Spring Boot API with a
 React frontend. Enforces transactional consistency and concurrency-safe stock operations,
