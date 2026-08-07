@@ -14,11 +14,13 @@ Software Engineering student focused on backend and full-stack development.
 
 ### Stock Management System
 
-Full-stack inventory management application with JWT authentication,
-role-based authorization, automated tests, Docker support and CI workflows.
+Full-stack inventory and stock-transaction platform — Java 21 / Spring Boot API with a
+React frontend. Enforces transactional consistency and concurrency-safe stock operations,
+with role- and ownership-based authorization. Verified by 155 backend tests running
+against MySQL 8.0 in CI and 22 frontend tests across 5 suites; containerised with Docker
+and built through GitHub Actions. Released as v1.0.0.
 
-## Currently Working On
+## Current Focus
 
-- Transaction safety and concurrent stock updates
-- Security hardening
-- Full-stack testing and deployment automation
+Java / Spring Boot backend development, transactional systems, REST API design,
+concurrency-safe application logic and full-stack software engineering.
