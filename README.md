@@ -1,26 +1,45 @@
-# Hi, I'm Mehmet 👋
+Mehmet Taha Boynikoğlu
 
-Software Engineering student focused on backend and full-stack development.
+Final-year Software Engineering student in Istanbul, expected to graduate in June 2027.
 
-## Tech Stack
+I focus on Java backend engineering, transactional correctness, concurrency, automated testing, and financial systems.
 
-- Java 21, Spring Boot, Spring Security
-- React, JavaScript
-- MySQL, H2, JPA/Hibernate
-- Docker, GitHub Actions
-- Git, REST APIs, JWT
+Featured engineering work
 
-## Featured Project
+Stock Management System
 
-### [Stock Management System](https://github.com/mrblackcoder/Stock_Management)
+Java 21 · Spring Boot 3.5 · Spring Security · Spring Data JPA · MySQL 8 · React · Docker · GitHub Actions
 
-Full-stack inventory and stock-transaction platform — Java 21 / Spring Boot API with a
-React frontend. Enforces transactional consistency and concurrency-safe stock operations,
-with role- and ownership-based authorization. Verified by 155 backend tests running
-against MySQL 8.0 in CI and 22 frontend tests across 5 suites; containerised with Docker
-and built through GitHub Actions. Released as v1.0.0.
+• Concurrency-safe stock mutations using pessimistic row locking
+• Real concurrent integration tests designed to prevent overselling and deletion races
+• JWT access tokens with persisted refresh-token sessions
+• Role- and ownership-based authorization
+• Stable API error and pagination contracts
+• 155 backend tests against MySQL 8 in CI
+• 22 frontend tests across 5 suites
+• Docker / Nginx deployment workflow and GitHub Actions CI
 
-## Current Focus
+Repository: https://github.com/mrblackcoder/Stock_Management
 
-Java / Spring Boot backend development, transactional systems, REST API design,
-concurrency-safe application logic and full-stack software engineering.
+Financial systems & research
+
+• PUSULA — portfolio / market-data and financial-systems work; private codebase, with architecture and engineering decisions available to discuss.
+• Systematic FX Research — G10 currency-futures research covering carry/momentum hypotheses, walk-forward evaluation, transaction-cost assumptions, and explicit documentation of limitations and no-deployment decisions.
+
+Current focus
+
+• Java Core and Data Structures & Algorithms
+• Spring Security and backend correctness
+• PostgreSQL, transactions and indexing
+• Concurrency and Operating Systems
+• Technical interview preparation for 2027 graduate software roles
+
+Education
+
+BSc Software Engineering — Fatih Sultan Mehmet Vakıf University
+English-medium programme · Expected June 2027
+
+Links
+
+• LinkedIn: https://www.linkedin.com/in/taha-boynikoglu-483485281
+• Stock Management: https://github.com/mrblackcoder/Stock_Management
